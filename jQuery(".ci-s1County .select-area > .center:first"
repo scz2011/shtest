@@ -1,7 +1,0 @@
-jQuery(".ci-s1County .select-area > .center:first").on("span", function() {
-alert("1");
-    }); 
-
-    jQuery("#ddlCountry").change(function(){
-    alert($('#ddlCountry').val());
-    })
